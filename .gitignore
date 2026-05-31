@@ -7,3 +7,6 @@ raw/**/*.pdf
 raw/*.epub
 raw/**/*.epub
 raw/assets/
+
+# Експорти/генерирани файлове (docx/pdf/изображения, build-скриптове) — пазят се локално
+exports/
