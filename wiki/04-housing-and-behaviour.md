@@ -49,6 +49,8 @@ status: draft
 
 *BImSchV = Bundes-Immissionsschutz-Verordnung; IED = Industrial Emissions Directive (EU 2010/75); UVP = Umweltverträglichkeitsprüfung (ОВОС). Quelle: W. Eckhof, Geflügeljahrbuch (2013).*
 
+> ⚠️ **Контекст BG/ЕС (live-проверка 2026):** числата в Tab. 64 са **немски** (BImSchV/UVPG). За **България** виж [ОВОС/IED прагове](regulation/eia-ied-thresholds.md) (ЗООС): задължителна ОВОС > 60 000 кокошки; IED при **40 000 места**. ⚠️ Прагът за IED **пада на ≈ 21 400 места (300 LSU)** по **Дир. (ЕС) 2024/1785** (от ~2030) — засяга и немската, и българската уредба.
+
 По Baugesetzbuch (20.09.2013) птицевъдни обекти, ползващи > 50 % собствена земя за фураж (§ 201 BauGB), могат да се строят извън регулация само ако са под:
 - 15 000 места носачки или пуйки
 - 30 000 места юници или бройлери
