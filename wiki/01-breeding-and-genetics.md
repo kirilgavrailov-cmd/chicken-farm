@@ -1,3 +1,12 @@
+---
+title: Развъждане и генетика
+tags: [breeding, genetics, breeds, market-niches]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 1 (стр. 7–41)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 1. Развъждане и генетика (Züchtung und Vermehrung)
 
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 1 (кн. стр. 7–41).

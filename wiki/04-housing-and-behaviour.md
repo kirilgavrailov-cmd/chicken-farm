@@ -1,3 +1,12 @@
+---
+title: Отглеждане и поведение
+tags: [housing, equipment, climate, behaviour, welfare]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 4 (стр. 131–173)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 4. Отглеждане и поведение (Geflügelhaltung und Verhalten)
 
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 4 (кн. стр. 131–173).

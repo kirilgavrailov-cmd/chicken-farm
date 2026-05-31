@@ -1,3 +1,12 @@
+---
+title: Странични продукти и остатъци
+tags: [byproducts, manure, biogas, subsidies]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 7 (стр. 218–227)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 7. Странични продукти и остатъци (Reststoffnutzung und Koppelerlöse)
 
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 7 (кн. стр. 218–227).

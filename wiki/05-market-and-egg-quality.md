@@ -1,3 +1,12 @@
+---
+title: Пазар и качество на яйцата
+tags: [market, egg-quality, labelling, grading]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 5 (стр. 174–195)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 5. Пазар и качество на яйцата (Markt, Vermarktung, Eiqualität und Qualitätssicherung)
 
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 5 (кн. стр. 174–195).

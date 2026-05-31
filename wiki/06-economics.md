@@ -1,3 +1,12 @@
+---
+title: Икономика
+tags: [economics, costs, profitability]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 6 (стр. 196–217)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 6. Икономика (Ökonomik)
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 6 (кн. стр. 196–217).  
 > PDF страници: 197–218. Данните са предимно за Германия/Бавария, 2010–2014 г. (освен ако не е посочено друго).

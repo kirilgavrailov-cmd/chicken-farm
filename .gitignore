@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Сурови източници (слой raw/) — защитени с авторско право, пазят се локално
+raw/*.pdf
+raw/**/*.pdf
+raw/*.epub
+raw/**/*.epub
+raw/assets/

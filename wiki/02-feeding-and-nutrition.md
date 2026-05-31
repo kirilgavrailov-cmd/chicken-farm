@@ -1,3 +1,12 @@
+---
+title: Хранене
+tags: [feeding, nutrition, rations, water, moulting]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 2 (стр. 42–89)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 2. Хранене (Fütterung)
 
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 2 (кн. стр. 42–89).

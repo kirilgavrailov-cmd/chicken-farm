@@ -1,3 +1,12 @@
+---
+title: Здраве и профилактика
+tags: [health, disease, vaccination, biosecurity]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — гл. 3 (стр. 90–130)"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # Глава 3. Здраве и профилактика (Krankheiten und Prophylaxe)
 > Източник: Damme & Hildebrand, „Legehennenhaltung und Eierproduktion", Ulmer 2015, гл. 3 (кн. стр. 90–130).
 

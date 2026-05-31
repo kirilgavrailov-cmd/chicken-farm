@@ -1,3 +1,12 @@
+---
+title: Преглед и карта на скиловете
+tags: [overview, meta, skills]
+source: "Damme & Hildebrand, Legehennenhaltung und Eierproduktion (Ulmer, 2015) — цялата книга"
+ingested: 2026-05-31
+updated: 2026-05-31
+status: draft
+---
+
 # 00 — Преглед и връзка със скиловете
 
 ## Източник
